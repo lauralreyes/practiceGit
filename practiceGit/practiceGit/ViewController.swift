@@ -7,7 +7,7 @@
 //
 
 import UIKit
-
+var name = "Laura"
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
@@ -17,4 +17,6 @@ class ViewController: UIViewController {
 
 
 }
+
+
 
